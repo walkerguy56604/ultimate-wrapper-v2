@@ -1,0 +1,7 @@
+{
+  "modules": [
+    { "name": "Apple", "url": "https://apple.com" },
+    { "name": "OpenAI", "url": "https://openai.com" },
+    { "name": "CloudPad", "note": "Supabase + GitHub setup" }
+  ]
+}
